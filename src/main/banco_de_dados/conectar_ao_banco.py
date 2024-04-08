@@ -5,7 +5,7 @@ def conectar_banco_dados():
         conn = pyodbc.connect(
             'DRIVER={SQL Server};'
             'SERVER=192.168.0.17,1433;'
-            'DATABASE=dbsist_ti;'
+            'DATABASE=dbcentraltiweb;'
             'UID=sa;'
             'PWD=System@123;'
         )

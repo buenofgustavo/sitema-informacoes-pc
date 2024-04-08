@@ -26,7 +26,7 @@ def obter_versao_do_makro():
                     return versao
         return "Versão não encontrada"
     except Exception as e:
-        return f"Erro ao obter versão: {e}"
+        return f"Erro ao obter versão"
     
 
     makro = verificar_processo_makro()

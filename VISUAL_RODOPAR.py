@@ -17,7 +17,7 @@ def main():
                 conn.close()
         else:
             print("Sem conexão com a internet. Aguardando...")
-        time.sleep(60 * 60)
+        time.sleep(30 * 60)
 
 if __name__ == "__main__":
     main()

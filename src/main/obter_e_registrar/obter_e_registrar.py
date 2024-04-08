@@ -8,8 +8,10 @@ import platform
 
 
 from src.main.banco_de_dados.enviar_dados import enviar_dados_para_banco_dados
+from src.main.banco_de_dados.enviar_tabela_unique import enviar_dados_unique
 from src.main.makro.verificar_makro import verificar_processo_makro
 from src.main.makro.verificar_makro import obter_versao_do_makro
+
 
 def obter_e_registrar_informacoes(conn):
     user = os.getlogin()
@@ -69,6 +71,7 @@ def obter_e_registrar_informacoes(conn):
     print(makro)
     print(versao_makro)
 
-    dados = (user, nome_do_computador, MAC, city, total_memory, capacidade, marca, modelo, processador, sistema_operacional, makro, versao_makro)
+    dados = [user, nome_do_computador, MAC, city, total_memory, capacidade, marca, modelo, processador, sistema_operacional, makro, versao_makro]
 
     enviar_dados_para_banco_dados(conn, dados)
+    enviar_dados_unique(conn, dados)

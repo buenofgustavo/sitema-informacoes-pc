@@ -1,5 +1,5 @@
 ('C:\\Users\\gustavo.ferreira\\Documents\\TDM LOGISTICA\\PROJETOS-TDM\\Sistema '
- 'Dados PC\\sistema-ti\\build\\VISUAL_RODOPAR\\PYZ-00.pyz',
+ 'Dados Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program Files\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
@@ -29,162 +29,162 @@
   ('certifi',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\certifi\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\certifi\\__init__.py',
    'PYMODULE'),
   ('certifi.core',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\certifi\\core.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\certifi\\core.py',
    'PYMODULE'),
   ('charset_normalizer',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
    'PYMODULE'),
   ('charset_normalizer.api',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\api.py',
    'PYMODULE'),
   ('charset_normalizer.cd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
    'PYMODULE'),
   ('charset_normalizer.constant',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
    'PYMODULE'),
   ('charset_normalizer.legacy',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
    'PYMODULE'),
   ('charset_normalizer.models',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\models.py',
    'PYMODULE'),
   ('charset_normalizer.utils',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
    'PYMODULE'),
   ('charset_normalizer.version',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\version.py',
    'PYMODULE'),
   ('click',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\__init__.py',
    'PYMODULE'),
   ('click._compat',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\_compat.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\_compat.py',
    'PYMODULE'),
   ('click._termui_impl',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\_termui_impl.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\_termui_impl.py',
    'PYMODULE'),
   ('click._textwrap',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\_textwrap.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\_textwrap.py',
    'PYMODULE'),
   ('click._winconsole',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\_winconsole.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\_winconsole.py',
    'PYMODULE'),
   ('click.core',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\core.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\core.py',
    'PYMODULE'),
   ('click.decorators',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\decorators.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\decorators.py',
    'PYMODULE'),
   ('click.exceptions',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\exceptions.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\exceptions.py',
    'PYMODULE'),
   ('click.formatting',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\formatting.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\formatting.py',
    'PYMODULE'),
   ('click.globals',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\globals.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\globals.py',
    'PYMODULE'),
   ('click.parser',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\parser.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\parser.py',
    'PYMODULE'),
   ('click.shell_completion',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\shell_completion.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\shell_completion.py',
    'PYMODULE'),
   ('click.termui',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\termui.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\termui.py',
    'PYMODULE'),
   ('click.types',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\types.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\types.py',
    'PYMODULE'),
   ('click.utils',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\click\\utils.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\click\\utils.py',
    'PYMODULE'),
   ('colorama',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\colorama\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\colorama\\__init__.py',
    'PYMODULE'),
   ('colorama.ansi',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\colorama\\ansi.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\colorama\\ansi.py',
    'PYMODULE'),
   ('colorama.ansitowin32',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\colorama\\ansitowin32.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\colorama\\ansitowin32.py',
    'PYMODULE'),
   ('colorama.initialise',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\colorama\\initialise.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\colorama\\initialise.py',
    'PYMODULE'),
   ('colorama.win32',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\colorama\\win32.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\colorama\\win32.py',
    'PYMODULE'),
   ('colorama.winterm',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\colorama\\winterm.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\colorama\\winterm.py',
    'PYMODULE'),
   ('commctrl',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\lib\\commctrl.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\lib\\commctrl.py',
    'PYMODULE'),
   ('contextlib',
    'C:\\Program Files\\Python312\\Lib\\contextlib.py',
@@ -211,7 +211,7 @@
   ('decorator',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\decorator.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\decorator.py',
    'PYMODULE'),
   ('difflib', 'C:\\Program Files\\Python312\\Lib\\difflib.py', 'PYMODULE'),
   ('dis', 'C:\\Program Files\\Python312\\Lib\\dis.py', 'PYMODULE'),
@@ -282,342 +282,342 @@
   ('geocoder',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\__init__.py',
    'PYMODULE'),
   ('geocoder.api',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\api.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\api.py',
    'PYMODULE'),
   ('geocoder.arcgis',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\arcgis.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\arcgis.py',
    'PYMODULE'),
   ('geocoder.arcgis_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\arcgis_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\arcgis_reverse.py',
    'PYMODULE'),
   ('geocoder.baidu',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\baidu.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\baidu.py',
    'PYMODULE'),
   ('geocoder.baidu_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\baidu_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\baidu_reverse.py',
    'PYMODULE'),
   ('geocoder.base',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\base.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\base.py',
    'PYMODULE'),
   ('geocoder.bing',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\bing.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\bing.py',
    'PYMODULE'),
   ('geocoder.bing_batch',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\bing_batch.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\bing_batch.py',
    'PYMODULE'),
   ('geocoder.bing_batch_forward',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\bing_batch_forward.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\bing_batch_forward.py',
    'PYMODULE'),
   ('geocoder.bing_batch_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\bing_batch_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\bing_batch_reverse.py',
    'PYMODULE'),
   ('geocoder.bing_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\bing_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\bing_reverse.py',
    'PYMODULE'),
   ('geocoder.canadapost',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\canadapost.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\canadapost.py',
    'PYMODULE'),
   ('geocoder.cli',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\cli.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\cli.py',
    'PYMODULE'),
   ('geocoder.distance',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\distance.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\distance.py',
    'PYMODULE'),
   ('geocoder.freegeoip',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\freegeoip.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\freegeoip.py',
    'PYMODULE'),
   ('geocoder.gaode',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\gaode.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\gaode.py',
    'PYMODULE'),
   ('geocoder.gaode_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\gaode_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\gaode_reverse.py',
    'PYMODULE'),
   ('geocoder.geocodefarm',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\geocodefarm.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\geocodefarm.py',
    'PYMODULE'),
   ('geocoder.geocodefarm_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\geocodefarm_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\geocodefarm_reverse.py',
    'PYMODULE'),
   ('geocoder.geolytica',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\geolytica.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\geolytica.py',
    'PYMODULE'),
   ('geocoder.geonames',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\geonames.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\geonames.py',
    'PYMODULE'),
   ('geocoder.geonames_children',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\geonames_children.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\geonames_children.py',
    'PYMODULE'),
   ('geocoder.geonames_details',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\geonames_details.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\geonames_details.py',
    'PYMODULE'),
   ('geocoder.geonames_hierarchy',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\geonames_hierarchy.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\geonames_hierarchy.py',
    'PYMODULE'),
   ('geocoder.gisgraphy',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\gisgraphy.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\gisgraphy.py',
    'PYMODULE'),
   ('geocoder.gisgraphy_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\gisgraphy_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\gisgraphy_reverse.py',
    'PYMODULE'),
   ('geocoder.google',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\google.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\google.py',
    'PYMODULE'),
   ('geocoder.google_elevation',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\google_elevation.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\google_elevation.py',
    'PYMODULE'),
   ('geocoder.google_places',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\google_places.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\google_places.py',
    'PYMODULE'),
   ('geocoder.google_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\google_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\google_reverse.py',
    'PYMODULE'),
   ('geocoder.google_timezone',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\google_timezone.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\google_timezone.py',
    'PYMODULE'),
   ('geocoder.here',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\here.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\here.py',
    'PYMODULE'),
   ('geocoder.here_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\here_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\here_reverse.py',
    'PYMODULE'),
   ('geocoder.ipinfo',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\ipinfo.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\ipinfo.py',
    'PYMODULE'),
   ('geocoder.keys',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\keys.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\keys.py',
    'PYMODULE'),
   ('geocoder.komoot',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\komoot.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\komoot.py',
    'PYMODULE'),
   ('geocoder.komoot_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\komoot_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\komoot_reverse.py',
    'PYMODULE'),
   ('geocoder.location',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\location.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\location.py',
    'PYMODULE'),
   ('geocoder.locationiq',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\locationiq.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\locationiq.py',
    'PYMODULE'),
   ('geocoder.locationiq_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\locationiq_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\locationiq_reverse.py',
    'PYMODULE'),
   ('geocoder.mapbox',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\mapbox.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\mapbox.py',
    'PYMODULE'),
   ('geocoder.mapbox_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\mapbox_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\mapbox_reverse.py',
    'PYMODULE'),
   ('geocoder.mapquest',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\mapquest.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\mapquest.py',
    'PYMODULE'),
   ('geocoder.mapquest_batch',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\mapquest_batch.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\mapquest_batch.py',
    'PYMODULE'),
   ('geocoder.mapquest_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\mapquest_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\mapquest_reverse.py',
    'PYMODULE'),
   ('geocoder.mapzen',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\mapzen.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\mapzen.py',
    'PYMODULE'),
   ('geocoder.mapzen_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\mapzen_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\mapzen_reverse.py',
    'PYMODULE'),
   ('geocoder.maxmind',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\maxmind.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\maxmind.py',
    'PYMODULE'),
   ('geocoder.opencage',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\opencage.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\opencage.py',
    'PYMODULE'),
   ('geocoder.opencage_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\opencage_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\opencage_reverse.py',
    'PYMODULE'),
   ('geocoder.osm',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\osm.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\osm.py',
    'PYMODULE'),
   ('geocoder.osm_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\osm_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\osm_reverse.py',
    'PYMODULE'),
   ('geocoder.ottawa',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\ottawa.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\ottawa.py',
    'PYMODULE'),
   ('geocoder.tamu',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\tamu.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\tamu.py',
    'PYMODULE'),
   ('geocoder.tgos',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\tgos.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\tgos.py',
    'PYMODULE'),
   ('geocoder.tomtom',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\tomtom.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\tomtom.py',
    'PYMODULE'),
   ('geocoder.uscensus',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\uscensus.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\uscensus.py',
    'PYMODULE'),
   ('geocoder.uscensus_batch',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\uscensus_batch.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\uscensus_batch.py',
    'PYMODULE'),
   ('geocoder.uscensus_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\uscensus_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\uscensus_reverse.py',
    'PYMODULE'),
   ('geocoder.w3w',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\w3w.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\w3w.py',
    'PYMODULE'),
   ('geocoder.w3w_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\w3w_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\w3w_reverse.py',
    'PYMODULE'),
   ('geocoder.yahoo',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\yahoo.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\yahoo.py',
    'PYMODULE'),
   ('geocoder.yandex',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\yandex.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\yandex.py',
    'PYMODULE'),
   ('geocoder.yandex_reverse',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\geocoder\\yandex_reverse.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\geocoder\\yandex_reverse.py',
    'PYMODULE'),
   ('getmac',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\getmac\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\getmac\\__init__.py',
    'PYMODULE'),
   ('getmac.getmac',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\getmac\\getmac.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\getmac\\getmac.py',
    'PYMODULE'),
   ('getmac.shutilwhich',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\getmac\\shutilwhich.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\getmac\\shutilwhich.py',
    'PYMODULE'),
   ('getopt', 'C:\\Program Files\\Python312\\Lib\\getopt.py', 'PYMODULE'),
   ('getpass', 'C:\\Program Files\\Python312\\Lib\\getpass.py', 'PYMODULE'),
@@ -639,32 +639,32 @@
   ('idna',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\idna\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\idna\\__init__.py',
    'PYMODULE'),
   ('idna.core',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\idna\\core.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\idna\\core.py',
    'PYMODULE'),
   ('idna.idnadata',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\idna\\idnadata.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\idna\\idnadata.py',
    'PYMODULE'),
   ('idna.intranges',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\idna\\intranges.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\idna\\intranges.py',
    'PYMODULE'),
   ('idna.package_data',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\idna\\package_data.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\idna\\package_data.py',
    'PYMODULE'),
   ('idna.uts46data',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\idna\\uts46data.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\idna\\uts46data.py',
    'PYMODULE'),
   ('importlib',
    'C:\\Program Files\\Python312\\Lib\\importlib\\__init__.py',
@@ -762,22 +762,22 @@
   ('psutil',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\psutil\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\psutil\\__init__.py',
    'PYMODULE'),
   ('psutil._common',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\psutil\\_common.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\psutil\\_common.py',
    'PYMODULE'),
   ('psutil._compat',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\psutil\\_compat.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\psutil\\_compat.py',
    'PYMODULE'),
   ('psutil._pswindows',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\psutil\\_pswindows.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\psutil\\_pswindows.py',
    'PYMODULE'),
   ('py_compile',
    'C:\\Program Files\\Python312\\Lib\\py_compile.py',
@@ -785,58 +785,58 @@
   ('pythoncom',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\pythoncom.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\pythoncom.py',
    'PYMODULE'),
   ('pywin',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
    'PYMODULE'),
   ('pywin.dialogs',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
    'PYMODULE'),
   ('pywin.dialogs.list',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
    'PYMODULE'),
   ('pywin.dialogs.status',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
    'PYMODULE'),
   ('pywin.mfc',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
    'PYMODULE'),
   ('pywin.mfc.dialog',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
    'PYMODULE'),
   ('pywin.mfc.object',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
    'PYMODULE'),
   ('pywin.mfc.thread',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
    'PYMODULE'),
   ('pywin.mfc.window',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
    'PYMODULE'),
   ('pywin32_system32', '-', 'PYMODULE'),
   ('pywintypes',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
    'PYMODULE'),
   ('queue', 'C:\\Program Files\\Python312\\Lib\\queue.py', 'PYMODULE'),
   ('quopri', 'C:\\Program Files\\Python312\\Lib\\quopri.py', 'PYMODULE'),
@@ -844,92 +844,92 @@
   ('ratelim',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\ratelim\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\ratelim\\__init__.py',
    'PYMODULE'),
   ('requests',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\__init__.py',
    'PYMODULE'),
   ('requests.__version__',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\__version__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\__version__.py',
    'PYMODULE'),
   ('requests._internal_utils',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\_internal_utils.py',
    'PYMODULE'),
   ('requests.adapters',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\adapters.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\adapters.py',
    'PYMODULE'),
   ('requests.api',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\api.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\api.py',
    'PYMODULE'),
   ('requests.auth',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\auth.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\auth.py',
    'PYMODULE'),
   ('requests.certs',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\certs.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\certs.py',
    'PYMODULE'),
   ('requests.compat',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\compat.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\compat.py',
    'PYMODULE'),
   ('requests.cookies',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\cookies.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\cookies.py',
    'PYMODULE'),
   ('requests.exceptions',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\exceptions.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\exceptions.py',
    'PYMODULE'),
   ('requests.hooks',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\hooks.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\hooks.py',
    'PYMODULE'),
   ('requests.models',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\models.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\models.py',
    'PYMODULE'),
   ('requests.packages',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\packages.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\packages.py',
    'PYMODULE'),
   ('requests.sessions',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\sessions.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\sessions.py',
    'PYMODULE'),
   ('requests.status_codes',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\status_codes.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\status_codes.py',
    'PYMODULE'),
   ('requests.structures',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\structures.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\structures.py',
    'PYMODULE'),
   ('requests.utils',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\requests\\utils.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\requests\\utils.py',
    'PYMODULE'),
   ('selectors', 'C:\\Program Files\\Python312\\Lib\\selectors.py', 'PYMODULE'),
   ('shlex', 'C:\\Program Files\\Python312\\Lib\\shlex.py', 'PYMODULE'),
@@ -938,72 +938,78 @@
   ('six',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\six.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\six.py',
    'PYMODULE'),
   ('socket', 'C:\\Program Files\\Python312\\Lib\\socket.py', 'PYMODULE'),
   ('src',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
-   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados PC\\sistema-ti\\src\\__init__.py',
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\src\\__init__.py',
    'PYMODULE'),
   ('src.main',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\__init__.py',
+   'Computadores\\sistema-ti\\src\\main\\__init__.py',
    'PYMODULE'),
   ('src.main.banco_de_dados',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\banco_de_dados\\__init__.py',
+   'Computadores\\sistema-ti\\src\\main\\banco_de_dados\\__init__.py',
    'PYMODULE'),
   ('src.main.banco_de_dados.conectar_ao_banco',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\banco_de_dados\\conectar_ao_banco.py',
+   'Computadores\\sistema-ti\\src\\main\\banco_de_dados\\conectar_ao_banco.py',
    'PYMODULE'),
   ('src.main.banco_de_dados.enviar_dados',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\banco_de_dados\\enviar_dados.py',
+   'Computadores\\sistema-ti\\src\\main\\banco_de_dados\\enviar_dados.py',
+   'PYMODULE'),
+  ('src.main.banco_de_dados.enviar_tabela_unique',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\src\\main\\banco_de_dados\\enviar_tabela_unique.py',
    'PYMODULE'),
   ('src.main.conexao_a_internet',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\conexao_a_internet\\__init__.py',
+   'Computadores\\sistema-ti\\src\\main\\conexao_a_internet\\__init__.py',
    'PYMODULE'),
   ('src.main.conexao_a_internet.verificar_conxão',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\conexao_a_internet\\verificar_conxão.py',
+   'Computadores\\sistema-ti\\src\\main\\conexao_a_internet\\verificar_conxão.py',
    'PYMODULE'),
   ('src.main.esconder_janela',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\esconder_janela\\__init__.py',
+   'Computadores\\sistema-ti\\src\\main\\esconder_janela\\__init__.py',
    'PYMODULE'),
   ('src.main.esconder_janela.esconder_janela',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\esconder_janela\\esconder_janela.py',
+   'Computadores\\sistema-ti\\src\\main\\esconder_janela\\esconder_janela.py',
    'PYMODULE'),
   ('src.main.makro',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\makro\\__init__.py',
+   'Computadores\\sistema-ti\\src\\main\\makro\\__init__.py',
    'PYMODULE'),
   ('src.main.makro.verificar_makro',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\makro\\verificar_makro.py',
+   'Computadores\\sistema-ti\\src\\main\\makro\\verificar_makro.py',
    'PYMODULE'),
   ('src.main.obter_e_registrar',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\obter_e_registrar\\__init__.py',
+   'Computadores\\sistema-ti\\src\\main\\obter_e_registrar\\__init__.py',
    'PYMODULE'),
   ('src.main.obter_e_registrar.obter_e_registrar',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\src\\main\\obter_e_registrar\\obter_e_registrar.py',
+   'Computadores\\sistema-ti\\src\\main\\obter_e_registrar\\obter_e_registrar.py',
    'PYMODULE'),
   ('ssl', 'C:\\Program Files\\Python312\\Lib\\ssl.py', 'PYMODULE'),
   ('statistics',
@@ -1046,167 +1052,167 @@
   ('urllib3',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\__init__.py',
    'PYMODULE'),
   ('urllib3._base_connection',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\_base_connection.py',
    'PYMODULE'),
   ('urllib3._collections',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\_collections.py',
    'PYMODULE'),
   ('urllib3._request_methods',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\_request_methods.py',
    'PYMODULE'),
   ('urllib3._version',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\_version.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\_version.py',
    'PYMODULE'),
   ('urllib3.connection',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\connection.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\connection.py',
    'PYMODULE'),
   ('urllib3.connectionpool',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
    'PYMODULE'),
   ('urllib3.contrib',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.connection',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.fetch',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.request',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.response',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
    'PYMODULE'),
   ('urllib3.contrib.pyopenssl',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
    'PYMODULE'),
   ('urllib3.contrib.socks',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
    'PYMODULE'),
   ('urllib3.exceptions',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\exceptions.py',
    'PYMODULE'),
   ('urllib3.fields',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\fields.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\fields.py',
    'PYMODULE'),
   ('urllib3.filepost',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\filepost.py',
    'PYMODULE'),
   ('urllib3.poolmanager',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
    'PYMODULE'),
   ('urllib3.response',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\response.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\response.py',
    'PYMODULE'),
   ('urllib3.util',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
    'PYMODULE'),
   ('urllib3.util.connection',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
    'PYMODULE'),
   ('urllib3.util.proxy',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
    'PYMODULE'),
   ('urllib3.util.request',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\request.py',
    'PYMODULE'),
   ('urllib3.util.response',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\response.py',
    'PYMODULE'),
   ('urllib3.util.retry',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
    'PYMODULE'),
   ('urllib3.util.ssl_',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
    'PYMODULE'),
   ('urllib3.util.ssl_match_hostname',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
    'PYMODULE'),
   ('urllib3.util.ssltransport',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
    'PYMODULE'),
   ('urllib3.util.timeout',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
    'PYMODULE'),
   ('urllib3.util.url',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\url.py',
    'PYMODULE'),
   ('urllib3.util.util',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\util.py',
    'PYMODULE'),
   ('urllib3.util.wait',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
    'PYMODULE'),
   ('uuid', 'C:\\Program Files\\Python312\\Lib\\uuid.py', 'PYMODULE'),
   ('webbrowser',
@@ -1215,107 +1221,107 @@
   ('win32com',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\__init__.py',
    'PYMODULE'),
   ('win32com.client',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\__init__.py',
    'PYMODULE'),
   ('win32com.client.CLSIDToClass',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
    'PYMODULE'),
   ('win32com.client.build',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\build.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\build.py',
    'PYMODULE'),
   ('win32com.client.dynamic',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\dynamic.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\dynamic.py',
    'PYMODULE'),
   ('win32com.client.gencache',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\gencache.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\gencache.py',
    'PYMODULE'),
   ('win32com.client.genpy',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\genpy.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\genpy.py',
    'PYMODULE'),
   ('win32com.client.makepy',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\makepy.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\makepy.py',
    'PYMODULE'),
   ('win32com.client.selecttlb',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\selecttlb.py',
    'PYMODULE'),
   ('win32com.client.util',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\client\\util.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\client\\util.py',
    'PYMODULE'),
   ('win32com.server',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\server\\__init__.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\server\\__init__.py',
    'PYMODULE'),
   ('win32com.server.dispatcher',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\server\\dispatcher.py',
    'PYMODULE'),
   ('win32com.server.exception',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\server\\exception.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\server\\exception.py',
    'PYMODULE'),
   ('win32com.server.policy',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\server\\policy.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\server\\policy.py',
    'PYMODULE'),
   ('win32com.server.util',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\server\\util.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\server\\util.py',
    'PYMODULE'),
   ('win32com.universal',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\universal.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\universal.py',
    'PYMODULE'),
   ('win32com.util',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32com\\util.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32com\\util.py',
    'PYMODULE'),
   ('win32con',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\lib\\win32con.py',
    'PYMODULE'),
   ('win32traceutil',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\lib\\win32traceutil.py',
    'PYMODULE'),
   ('winerror',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\lib\\winerror.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\lib\\winerror.py',
    'PYMODULE'),
   ('wmi',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\wmi.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\wmi.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Program Files\\Python312\\Lib\\zipfile\\__init__.py',

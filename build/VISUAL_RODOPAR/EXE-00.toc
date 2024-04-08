@@ -1,11 +1,11 @@
 ('C:\\Users\\gustavo.ferreira\\Documents\\TDM LOGISTICA\\PROJETOS-TDM\\Sistema '
- 'Dados PC\\sistema-ti\\dist\\VISUAL_RODOPAR.exe',
+ 'Dados Computadores\\sistema-ti\\dist\\VISUAL_RODOPAR.exe',
  False,
  False,
  False,
  'C:\\Users\\gustavo.ferreira\\Documents\\TDM LOGISTICA\\PROJETOS-TDM\\Sistema '
  'Dados '
- 'PC\\sistema-ti\\myenv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ 'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
  None,
  False,
  False,
@@ -33,72 +33,73 @@
  None,
  None,
  'C:\\Users\\gustavo.ferreira\\Documents\\TDM LOGISTICA\\PROJETOS-TDM\\Sistema '
- 'Dados PC\\sistema-ti\\build\\VISUAL_RODOPAR\\VISUAL_RODOPAR.pkg',
+ 'Dados Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\VISUAL_RODOPAR.pkg',
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\build\\VISUAL_RODOPAR\\PYZ-00.pyz',
+   'Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\struct.pyc',
+   'Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\pyimod01_archive.pyc',
+   'Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\pyimod02_importers.pyc',
+   'Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\pyimod03_ctypes.pyc',
+   'Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\pyimod04_pywin32.pyc',
+   'Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('pyi_rth_inspect',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('pyi_rth_pywintypes',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
    'PYSOURCE'),
   ('pyi_rth_pythoncom',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
    'PYSOURCE'),
   ('VISUAL_RODOPAR',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
-   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados PC\\sistema-ti\\VISUAL_RODOPAR.py',
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\VISUAL_RODOPAR.py',
    'PYSOURCE'),
   ('python312.dll', 'C:\\Program Files\\Python312\\python312.dll', 'BINARY'),
   ('pywin32_system32\\pywintypes312.dll',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\pywin32_system32\\pywintypes312.dll',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\pywin32_system32\\pywintypes312.dll',
    'BINARY'),
   ('pywin32_system32\\pythoncom312.dll',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\pywin32_system32\\pythoncom312.dll',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\pywin32_system32\\pythoncom312.dll',
    'BINARY'),
   ('_decimal.pyd',
    'C:\\Program Files\\Python312\\DLLs\\_decimal.pyd',
@@ -118,33 +119,33 @@
   ('pyodbc.cp312-win_amd64.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\pyodbc.cp312-win_amd64.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\pyodbc.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('_wmi.pyd', 'C:\\Program Files\\Python312\\DLLs\\_wmi.pyd', 'EXTENSION'),
   ('win32\\_win32sysloader.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
    'EXTENSION'),
   ('win32\\win32api.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\win32api.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\win32api.pyd',
    'EXTENSION'),
   ('Pythonwin\\win32ui.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\win32ui.pyd',
    'EXTENSION'),
   ('win32\\win32trace.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\win32trace.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\win32trace.pyd',
    'EXTENSION'),
   ('psutil\\_psutil_windows.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\psutil\\_psutil_windows.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\psutil\\_psutil_windows.pyd',
    'EXTENSION'),
   ('_ctypes.pyd',
    'C:\\Program Files\\Python312\\DLLs\\_ctypes.pyd',
@@ -155,22 +156,22 @@
   ('charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('charset_normalizer\\md.cp312-win_amd64.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('win32\\win32console.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\win32console.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\win32console.pyd',
    'EXTENSION'),
   ('win32\\win32gui.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\win32\\win32gui.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\win32\\win32gui.pyd',
    'EXTENSION'),
   ('VCRUNTIME140.dll',
    'C:\\Program Files\\Python312\\VCRUNTIME140.dll',
@@ -184,7 +185,7 @@
   ('Pythonwin\\mfc140u.dll',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\mfc140u.dll',
    'BINARY'),
   ('python3.dll', 'C:\\Program Files\\Python312\\python3.dll', 'BINARY'),
   ('libffi-8.dll',
@@ -196,25 +197,25 @@
   ('base_library.zip',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\build\\VISUAL_RODOPAR\\base_library.zip',
-   'DATA'),
-  ('certifi\\cacert.pem',
-   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
-   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\base_library.zip',
    'DATA'),
   ('certifi\\py.typed',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\certifi\\py.typed',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
    'DATA')],
  [],
  False,
  False,
- 1710347759,
+ 1712077718,
  [('runw.exe',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'PC\\sistema-ti\\myenv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
  'C:\\Program Files\\Python312\\python312.dll')
