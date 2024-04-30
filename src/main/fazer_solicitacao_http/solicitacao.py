@@ -2,7 +2,7 @@ import requests
 import json
 
 def fazer_solicitacao(token, dados):
-    url = 'http://192.168.100.172:8082/computadores'
+    url = 'http://187.32.51.50:7892/computadores'
     headers = {
         'Authorization': f'Bearer {token}',
         'Content-Type': 'application/json',

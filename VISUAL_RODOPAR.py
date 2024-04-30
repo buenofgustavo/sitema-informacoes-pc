@@ -11,7 +11,7 @@ def main():
     hide_console_window()
 
     while True:
-        time.sleep(0 * 30)
+        time.sleep(1 * 30)
         if is_connected():
             dados = obter_e_registrar_informacoes()
             token = gerar_token(dados[2])

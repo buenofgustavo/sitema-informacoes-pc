@@ -116,10 +116,27 @@
   ('_socket.pyd',
    'C:\\Program Files\\Python312\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('pyodbc.cp312-win_amd64.pyd',
+  ('_queue.pyd', 'C:\\Program Files\\Python312\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_cffi_backend.cp312-win_amd64.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\pyodbc.cp312-win_amd64.pyd',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\_cffi_backend.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Program Files\\Python312\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp312-win_amd64.pyd',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
    'EXTENSION'),
   ('_wmi.pyd', 'C:\\Program Files\\Python312\\DLLs\\_wmi.pyd', 'EXTENSION'),
   ('win32\\_win32sysloader.pyd',
@@ -151,18 +168,6 @@
    'C:\\Program Files\\Python312\\DLLs\\_ctypes.pyd',
    'EXTENSION'),
   ('_uuid.pyd', 'C:\\Program Files\\Python312\\DLLs\\_uuid.pyd', 'EXTENSION'),
-  ('_queue.pyd', 'C:\\Program Files\\Python312\\DLLs\\_queue.pyd', 'EXTENSION'),
-  ('_ssl.pyd', 'C:\\Program Files\\Python312\\DLLs\\_ssl.pyd', 'EXTENSION'),
-  ('charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
-   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
-   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
-   'EXTENSION'),
-  ('charset_normalizer\\md.cp312-win_amd64.pyd',
-   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
-   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
-   'EXTENSION'),
   ('win32\\win32console.pyd',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
@@ -182,37 +187,77 @@
   ('libcrypto-3.dll',
    'C:\\Program Files\\Python312\\DLLs\\libcrypto-3.dll',
    'BINARY'),
+  ('python3.dll', 'C:\\Program Files\\Python312\\python3.dll', 'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Program Files\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
   ('Pythonwin\\mfc140u.dll',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
    'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\Pythonwin\\mfc140u.dll',
    'BINARY'),
-  ('python3.dll', 'C:\\Program Files\\Python312\\python3.dll', 'BINARY'),
   ('libffi-8.dll',
    'C:\\Program Files\\Python312\\DLLs\\libffi-8.dll',
-   'BINARY'),
-  ('libssl-3.dll',
-   'C:\\Program Files\\Python312\\DLLs\\libssl-3.dll',
    'BINARY'),
   ('base_library.zip',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
    'Computadores\\sistema-ti\\build\\VISUAL_RODOPAR\\base_library.zip',
    'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
   ('certifi\\py.typed',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
    'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
-  ('certifi\\cacert.pem',
+  ('cryptography-42.0.5.dist-info\\LICENSE',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
-   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography-42.0.5.dist-info\\LICENSE',
+   'DATA'),
+  ('cryptography-42.0.5.dist-info\\RECORD',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography-42.0.5.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-42.0.5.dist-info\\top_level.txt',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography-42.0.5.dist-info\\top_level.txt',
+   'DATA'),
+  ('cryptography-42.0.5.dist-info\\INSTALLER',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography-42.0.5.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-42.0.5.dist-info\\METADATA',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography-42.0.5.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-42.0.5.dist-info\\WHEEL',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography-42.0.5.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-42.0.5.dist-info\\LICENSE.BSD',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography-42.0.5.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-42.0.5.dist-info\\LICENSE.APACHE',
+   'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
+   'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
+   'Computadores\\sistema-ti\\venv\\Lib\\site-packages\\cryptography-42.0.5.dist-info\\LICENSE.APACHE',
    'DATA')],
  [],
  False,
  False,
- 1714151126,
+ 1714501702,
  [('runw.exe',
    'C:\\Users\\gustavo.ferreira\\Documents\\TDM '
    'LOGISTICA\\PROJETOS-TDM\\Sistema Dados '
