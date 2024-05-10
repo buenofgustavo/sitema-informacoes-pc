@@ -9,7 +9,6 @@ def fazer_solicitacao(token, dados):
         'Origin': 'http://your_origin_here.com'
     }
     dados_json = criar_json_nomeado(dados)
-    print(dados_json)
     response = requests.post(url, json=dados_json, headers=headers)
     return response
 

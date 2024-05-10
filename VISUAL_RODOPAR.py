@@ -11,11 +11,13 @@ def main():
     hide_console_window()
 
     while True:
-        time.sleep(1 * 30)
+        time.sleep(0 * 60)
         if is_connected():
             dados = obter_e_registrar_informacoes()
             token = gerar_token(dados[2])
+            print(token)
             response = fazer_solicitacao(token, dados)
+            print(response)
             if response.status_code == 200:
                 print("Solicitação bem-sucedida!")
             else:
